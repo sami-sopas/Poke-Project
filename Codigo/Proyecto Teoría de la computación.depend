@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1652913226 source:c:\users\ramir\onedrive\escritorio\pokemon mamalon\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<chrono>
+	<iomanip>
+	<windows.h>
+	"pokemon.h"
+	"movement.h"
+
+1651538362 c:\users\ramir\onedrive\escritorio\pokemon mamalon\pokemon.h
+	<string>
+
+1651441744 c:\users\ramir\onedrive\escritorio\pokemon mamalon\movement.h
+
+1651442206 source:c:\users\ramir\onedrive\escritorio\pokemon mamalon\movement.cpp
+	"movement.h"
+
+1651538352 source:c:\users\ramir\onedrive\escritorio\pokemon mamalon\pokemon.cpp
+	"pokemon.h"
+
+1652913226 source:c:\users\ramir\escritorio\escuela zzz\programas c++\pokemon-proyecto final teoria de la computacion\codigo\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<chrono>
+	<iomanip>
+	<windows.h>
+	"pokemon.h"
+	"movement.h"
+
+1651538362 c:\users\ramir\escritorio\escuela zzz\programas c++\pokemon-proyecto final teoria de la computacion\codigo\pokemon.h
+	<string>
+
+1651441744 c:\users\ramir\escritorio\escuela zzz\programas c++\pokemon-proyecto final teoria de la computacion\codigo\movement.h
+
+1651442206 source:c:\users\ramir\escritorio\escuela zzz\programas c++\pokemon-proyecto final teoria de la computacion\codigo\movement.cpp
+	"movement.h"
+
+1651538352 source:c:\users\ramir\escritorio\escuela zzz\programas c++\pokemon-proyecto final teoria de la computacion\codigo\pokemon.cpp
+	"pokemon.h"
+
