@@ -26,7 +26,7 @@ In this case it will be computational and will be very useful, since the formal 
 
 ## How to use it
 
-The project was coded in CodeBlocks 20.03, to use the program, just open the [project file](https://github.com/sami-sopas/Poke-Project/blob/main/Codigo/Proyecto%20Teoría%20de%20la%20computación.cbp)  
+The project was coded in CodeBlocks 20.03, to use the program, just open the [project file](https://github.com/sami-sopas/Blim/blob/main/Blim/Blim.cbp)  
 
 More information about the project in the [documentation](Documentation.pdf)
 
